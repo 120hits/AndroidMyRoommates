@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "943336620890",
+    "firebase_url": "https://my-roommates.firebaseio.com",
+    "project_id": "my-roommates",
+    "storage_bucket": "my-roommates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943336620890:android:6b81198ed3b0fdfa",
+        "android_client_info": {
+          "package_name": "io.github.toshalghimire.myroommates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943336620890-m2rkm5q0dhmclptrnsdg0msl2ub7kaji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAOrzVfM9AKj4whuPRWGCkF7UzJLvfd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
